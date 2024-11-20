@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif)
+![](https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif)
 ## RevoloerO | vqm | VuongQuyenMai
 ![RevoloerO](https://github-readme-stats.vercel.app/api/top-langs?username=RevoloerO&layout=compact&langs_count=8)
 
