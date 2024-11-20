@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="100"/>
+</div>
 ## RevoloerO | vqm | VuongQuyenMai
 ![RevoloerO](https://github-readme-stats.vercel.app/api/top-langs?username=RevoloerO&layout=compact&langs_count=8)
 
