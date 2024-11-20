@@ -1,6 +1,6 @@
 ## RevoloerO | vqm | VuongQuyenMai
 ![](https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif)
-![RevoloerO](https://github-readme-stats.vercel.app/api/top-langs?username=RevoloerO&layout=compact&langs_count=8)
+![RevoloerO](https://github-readme-stats.vercel.app/api/top-langs?username=RevoloerO&layout=compact&langs_count=8&card_width=500)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
