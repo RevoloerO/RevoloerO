@@ -1,5 +1,7 @@
 ## RevoloerO | vqm | VuongQuyenMai
-![RevoloerO](https://github-readme-stats.vercel.app/api/top-langs/?username=RevoloerO&layout=compact)
+<a href="https://github.com/RevoloerO/RevoloerO">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RevoloerO&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **RevoloerO/RevoloerO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
